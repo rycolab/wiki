@@ -12,8 +12,9 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
 2. Research
     1. [**General Principles of Academic Research**](./research/principles.md)
     2. [Style guide for writing a paper](./research/style.md)
-    3. [Bibtex Etiquette](./research/bibtex.md)
-    4. [Making Slides](./research/slides.md)
+    3. [Camera Ready Guidelines](./research/cr.md)
+    4. [Bibtex Etiquette](./research/bibtex.md)
+    5. [Making Slides](./research/slides.md)
 3. Miscellaneous
     1. [Booking a meeting room at OAT]()
     1. [Lab Chores]()
