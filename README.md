@@ -5,21 +5,21 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
 1. Onboarding
     1.  [Zulip Chat](./onboarding/zulip.md)
     2.  [Email]()
-    3.  [Website Profile](./onboarding/website.md)
-        
+
+    3.  [Website Profile](./onboarding/website.md)  
         Uploading a profile picture, adding your bio, etc.
 
-    4.  [Rycolab Drive](./onboarding/drive.md)
-        
+    4.  [Rycolab Drive](./onboarding/drive.md)  
         Datasets, templates, publications, slides, posters, etc.
         
-    5.  [Lab Meeting](./onboarding/labmeeting.md)
-
+    5.  [Lab Meeting](./onboarding/labmeeting.md)  
         Lab meeting schedule, how to present, etc.
 
-    6.  [ETH Euler Cluster](./onboarding/cluster.md)
-
+    6.  [ETH Euler Cluster](./onboarding/cluster.md)  
         How to get an account, how to set up an environment, submit jobs, etc.
+
+    7.  [Office Access](./onboarding/office.md)  
+        Access to the office, keys, etc.
 
 2. Research
     1. Before you start, please read: [**General Principles of Academic Research**](./research/principles.md)
@@ -29,7 +29,12 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
         3. [Camera Ready Guidelines](./research/cr.md)
         4. [Bibtex Etiquette](./research/bibtex.md)
         5. [Afterwards](./research/afterwards.md)
-    5. [Making Slides](./research/slides.md)
+    3. [Making Slides](./research/slides.md)  
+        Templates, style guide, etc.
+
+    4. [Attending Conferences](./research/conferences.md)  
+        Coordination, travel, reinbursement, etc.
+
 
 3. Miscellaneous
     1. [Booking a meeting room at OAT]()
