@@ -1,4 +1,5 @@
 # General Principles of Academic Research 
+### &mdash; Ryan
 
 So, you’ve decided to write a paper with me. Great! Here is a list of my values. I encourage you to read them with a careful eye, as I try to embody them in my research activities. I welcome and encourage discussion of these values. However, if you do disagree with something I’ve written here, I expect you to bring it up with me before we start working together to avoid future misunderstandings. I also wish to emphasize that I take the principles below incredibly seriously.
 
