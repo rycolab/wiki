@@ -1,5 +1,5 @@
 # Rycolab Zulip
-The primary vehicle for communication among members of the lab is Zulip. Zulip is an open source platform that we run locally on ETH servers. Unlike Slack, it is free and, thus, we can invite as many members as we would like. You need to be invited to join. Once you are invited, the link is https://zulip.rycolab.inf.ethz.ch/.
+The primary vehicle for communication among members of the lab is Zulip. Zulip [https://zulip.com/] is a free and open-source chat platform that we run locally on ETH servers. Unlike Slack, it is free and, thus, we can invite as many members as we would like. You need to be invited to join. Once you are invited, the link is https://zulip.rycolab.inf.ethz.ch/.
 
 There are several principles behind being a good citizen in online space. I'll outline them here. 
 1. *Be courteous*. It is important that we treat each other with respect. That being said, treating someone with respect does not mean agreeing with them--specifically on scientific issues. We are brought together by our desire to do science. To do it well means every single person needs to have space to speak about the quality of work.
