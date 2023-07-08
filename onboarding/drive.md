@@ -1,6 +1,9 @@
 # Rycolab Storage
+Many lab resources are stored on [Google Drive](https://drive.google.com/drive/folders/1aF8TFycbY_45LTFABtsI3seANr_Ow_Zt?usp=drive_link). You can find many useful things there, including:
 
 ## Datasets
+
+[LDC data](https://drive.google.com/drive/folders/1X2oZQGExwO1SIZHm0XbpPYIx-ijJ2vHo?usp=drive_link)
 
 ## Templates (papers, slides, posters, etc.)
 
