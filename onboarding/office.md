@@ -7,6 +7,6 @@ If you are a visitor you should coordinate with your host so that they can let y
 
 The main entrance to the building is on Andreastrasse, just below the big "AmdreasTurm" sign. During working hours you don't need a badge to 
 enter the building, otherwhise you will have to scan your badge near the entrance door and enter your PIN. Once your are in, walk forward and you will
-see six elevators. You can enter the floor you want to access and you will see on the monitor which elevator you have to take in order to get at that floor. 
-When you are at the 18th floor, walk towards one of the two entrance doors and  you will see a black box where you can scan your badge and enter your PIN (during working
-ours you will not have to enter the pin).
+see six elevators. Then, enter the number of the floor you want to go to (i.e. 18) and you will see on the monitor which elevator you have to take in order to get there. 
+When you are at the 18th floor, walk towards one of the two entrance doors and you will see a black badge reader where you can scan your badge and enter your PIN (during working
+ours you will not have to enter the pin). You are at the office.
