@@ -35,12 +35,15 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     4. [Attending Conferences](./research/conferences.md)  
         Coordination, travel, reinbursement, etc.
 
+3. Being a PhD
+    1. [Fellowship](./research/fellowships.md)
+    2. 
 
-3. Miscellaneous
+4. Miscellaneous
     1. [Booking a meeting room at OAT]()
     1. [Hosting Visitors]()
 
-4. Lab Chores and Voluntary Tasks
+5. Lab Chores and Voluntary Tasks
     1. Website
     2. Reading Group
     3. Publication List
@@ -50,7 +53,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     7. Academic English Writing
     8. Wiki Maintenance
 
-5. Useful Links
+6. Useful Links
     1. [Printing at OAT](https://piaweb01.ethz.ch/)
     2. [VPN](https://www.isg.inf.ethz.ch/Main/ServicesNetworkVPN)
     3. [Polybox](https://polyboxdoc.ethz.ch/)
