@@ -11,6 +11,8 @@ Many lab resources are stored on [Google Drive](https://drive.google.com/drive/f
 
 [Poster templates](https://drive.google.com/drive/folders/18BkEupt01Lcn9SBMMtBjit_OFHMc1m3Z?usp=sharing)
 
+[Rebuttal template](https://docs.google.com/document/d/1kxuwRLFZaOHHdxTc4mu8-glhewrCnkcVFbgUG0iprbE/edit?usp=drive_link)
+
 ## Publications
 
 [Paper PDFs](https://drive.google.com/drive/folders/1y6YCAXXjxjhKtC0dCgPOyNRMeLaamtg_?usp=sharing)

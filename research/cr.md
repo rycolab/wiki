@@ -4,14 +4,14 @@
 So, you’re the proud new owner of an accepted paper at a top computer science conference, eh? Here are the five steps to make publishing the final version a painless camera ready process! Why is this process called camera ready? Read about it [here](https://en.wikipedia.org/wiki/Camera-ready): etymology is awesome!
 
 ## Step 1: Start with the Basics
-* Take the paper and turn it into camera ready mode. With the .sty file used by the ACL community, you typically do this by uncommenting the line “\aclfinalcopy”. 
+* Take the paper and turn it into camera ready mode. With the .sty file used by the ACL community, you typically do this by uncommenting the line `\aclfinalcopy`. 
 * Add the author list, following the [Rycolab style guide’s specifications](./style.md).
 * Make sure you are following other aspects of the style guide, e.g. use of cref.
 * Make sure your paper has an “Ethical Concerns” section. If it did not during submission, please add it. It is totally fine if you foresee no ethical concerns with your work. Even if this is the case, you should still declare this. 
     * It’s better to declare that you foresee no ethical concerns than trying to make up ethical concerns that you don’t actually foresee or agree with because you feel peer-pressured into doing so. You can also consult with someone you trust on this point if you are not sure.
 
 ## Step 2: Address the Reviewers’ Concerns
-* Copy the final reviews into a Google doc and send it to all your co-authors: 
+* Copy the final reviews into a Google doc (see [here](./rebuttal.md)) and send it to all your co-authors: 
     * Create a list out of the concerns you plan to address;
     * I start with the simple concerns, e.g., typos and missing indices in formulae, just to get the ball rolling;
     * Then, move into the more substantive changes: For instance, argumentation or clarification rewrites. 
