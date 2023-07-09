@@ -56,13 +56,21 @@ The following example defines some macros.
 \colorlet{MacroColor}{black}
 }
 
-\newcommand{\bh}{{\color{MacroColor} \mathbf{h}}}
-\newcommand{\bhi}{{\color{MacroColor} \mathbf{h}_i}}
-\newcommand{\bt}{{\color{MacroColor} \boldsymbol{t}}}
-\newcommand{\bw}{{\color{MacroColor} \boldsymbol{w}}}
+%%%%%% The super-macro:
+% While editing---it will make all the macros blue
+\newcommand{\mymacro}[1]{{\color{MacroColor} #1}}
+% For publishing---it will remove the custom color (just setting it to black is not enough, since the black would override any custom colors you would have in the main text).
+% \newcommand{\mymacro}[1]{{#1}}
+
+\newcommand{\bh}{\mymacro{\mathbf{h}}}
+\newcommand{\bhi}{\mymacro{\mathbf{h}_i}}
+\newcommand{\bt}{\mymacro{\boldsymbol{t}}}
+\newcommand{\bw}{\mymacro{\boldsymbol{w}}}
 ```
 
 If there are a lot of macros, it is a good idea to put them in a separate file, e.g. `macros.tex`, and include them in the main file with `\input{macros}`.
+
+You can use the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/math_commands.tex) for some common macros, e.g., vectors and matrices.
 
 ## Use thmtools for theorems
 ```latex
@@ -107,6 +115,14 @@ Taken from the CVPR style guide: “Please number all of your sections and displ
 ```latex
 \usepackage[T5,T1]{fontenc}
 ```
+
+### Emoji
+Emojis can be fun to include in papers, for example for author affiliations, however, using them with the standard `pdflatex` compiler is not straightforward, but it is possible.
+TO be able to use them, do the following:
+1. Copy the `emoji.sty` file from [here](https://github.com/henningpohl/latex-emoji/blob/master/emoji.sty.TEMPLATE) into the root of your Overleaf project.
+2. Include the package using `\usepackage{emoji}`.
+3. Create an `emojis` folder in your project and upload the pngs of the emojis you want to use into the folder.
+4. Add an emoji in the file `example.png` to text using `\emoji[emojis]{example}`.
 
 ##  How to format your bibliography
 Please copy all citations from the [ACL Anthology](https://aclanthology.org/)

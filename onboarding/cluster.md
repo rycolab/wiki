@@ -18,6 +18,16 @@ Option 1:
 Option 2:
 - Download Cisco AnyConnect using [these instructions](https://unlimited.ethz.ch/display/itkb/VPN)
 
+Option 3:
+- Use the D-INFK jumphost (`jumphost.inf.ethz.ch`), which can be accessed without VPN.
+Add the following to your `~/.ssh/config` file:
+```
+Host euler.ethz.ch
+  HostName euler.ethz.ch
+  User <your_nethzid>
+  ProxyJump <your_nethzid>@jumphost.inf.ethz.ch
+```
+
 
 You can then ssh into the cluster. If you can’t get the VPN running, you may need to update your Radius password at https://www.password.ethz.ch (go to Self-service -> Change Password).
 

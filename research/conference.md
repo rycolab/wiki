@@ -1,12 +1,14 @@
 # Rycolab Conference Policies
 
 We have a few simple rules regarding traveling to conferences.
-* All travels must be approved (in advance) by Ryan, otherwise Patrizia might not be able to reimburse your travel.
+* All travels must be approved (in advance) by Ryan, otherwise Patrizia[^1] might not be able to reimburse your travel.
 * In general, the reimbursement of conference expenses is to be claimed after the respective travel, with the exception of conference fees.
 If you do have financial issues and the reimbursement has to be processed quicker, you can talk to Patrizia to speed it up.
 * In order to get reimbursed, it is really important to save the receipts. Whenever you pay for something, just take a picture of the receipt to make sure it doesn't get lost. It takes only 5 seconds!
 * If you can, you should get reimbursed via [ETHIS](https://ethz.ch/staffnet/en/finance-and-controlling/ethis.html).
 Every PhD student and postdoc has access to the portal.
+
+[^1]: Patrizia is our administrative assistant. You can contact her through email `patrizia.napoli@inf.ethz.ch` or [Zulip](../onboarding/zulip.md).
 
 ## Accommodation
 
@@ -50,4 +52,4 @@ Make sure to pre-inform Patrizia about these expenses.
 16. You will then see a list of different items. You should check if all of them are marked green and if so, click on *Set up request*. 
 17. You should see a drop-down menu for approvers and, whenever possible, choose Patrizia Napoli and click *Send*.
 
-You can also refer to [this document](./Travel_Reimbursements_RC.pdf) for a demo.
+You can also refer to [this document](../files/Travel_Reimbursements_RC.pdf) for a demo.
