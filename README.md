@@ -36,7 +36,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
         Coordination, travel, reinbursement, etc.
 
 3. Being a PhD Student
-    1. [Fellowship](./research/fellowships.md)
+    1. [Fellowships](./research/fellowships.md)
     2. 
 
 4. Miscellaneous
