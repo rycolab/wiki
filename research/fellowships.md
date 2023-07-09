@@ -31,6 +31,7 @@ ELLIS provides very little financial support for students so this is not a means
 
 ## [Postdoctoral Fellowships](https://ethz.ch/en/research/research-promotion/eth-fellowships.html)
 
+### [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html)
 ETH funds 24-month postdoctoral fellowships. Applications are on a bi-annual cycle, with applications due in the fall and the spring. Application success rate is about 25%. Prospective fellows must apply with a fundable two-year research project, and the support of an ETH faculty member. If the application passes the first round of reviews, applicants are invited to a 15 minute interview. Funding covers both fellows' salary, as well as up to 10,000 CHF worth of research costs per year.
 
 The [CYD](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/), the [AI Center](https://ai.ethz.ch/education/phd-and-postdoc-programs/postdoc-fellowships.html), and [ELLIS](https://ellis.eu/phd-postdoc) also offer corresponding fellowships for prospective postdoctoral fellows.
