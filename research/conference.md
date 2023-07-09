@@ -33,7 +33,7 @@ The allowance for breakfast is 10 CHF, and for main meals 27.50 CHF.
 Make sure to pre-inform Patrizia about these expenses.
 
 ## How to
-
+* If you don't have an ETHIS account, submit your receipts [here](https://drive.google.com/drive/folders/1ceMLloivwFe-uz1i9ynh_mpRIdwLzW1q?usp=drive_link).
 1. Log into ETHIS and go to *Finanzen* → *Business Expenses* → *Record and settle receipts*.
 2. Click on *New item*.
 3. In the *Account assignment elem.* field type *29682* and click enter. Ryan's name should pop up.
