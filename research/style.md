@@ -56,6 +56,12 @@ The following example defines some macros.
 \colorlet{MacroColor}{black}
 }
 
+%%%%%% The super-macro:
+% While editing---it will make all the macros blue
+\newcommand{\mymacro}[1]{{\color{MacroColor} #1}}
+% For publishing---it will remove the custom color (just setting it to black is not enough, since the black would override any custom colors you would have in the main text).
+% \newcommand{\mymacro}[1]{{#1}}
+
 \newcommand{\bh}{{\color{MacroColor} \mathbf{h}}}
 \newcommand{\bhi}{{\color{MacroColor} \mathbf{h}_i}}
 \newcommand{\bt}{{\color{MacroColor} \boldsymbol{t}}}
@@ -63,6 +69,8 @@ The following example defines some macros.
 ```
 
 If there are a lot of macros, it is a good idea to put them in a separate file, e.g. `macros.tex`, and include them in the main file with `\input{macros}`.
+
+You can use the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/math_commands.tex) for some common macros, e.g., vectors and matrices.
 
 ## Use thmtools for theorems
 ```latex
