@@ -62,10 +62,10 @@ The following example defines some macros.
 % For publishing---it will remove the custom color (just setting it to black is not enough, since the black would override any custom colors you would have in the main text).
 % \newcommand{\mymacro}[1]{{#1}}
 
-\newcommand{\bh}{{\color{MacroColor} \mathbf{h}}}
-\newcommand{\bhi}{{\color{MacroColor} \mathbf{h}_i}}
-\newcommand{\bt}{{\color{MacroColor} \boldsymbol{t}}}
-\newcommand{\bw}{{\color{MacroColor} \boldsymbol{w}}}
+\newcommand{\bh}{\mymacro{\mathbf{h}}}
+\newcommand{\bhi}{\mymacro{\mathbf{h}_i}}
+\newcommand{\bt}{\mymacro{\boldsymbol{t}}}
+\newcommand{\bw}{\mymacro{\boldsymbol{w}}}
 ```
 
 If there are a lot of macros, it is a good idea to put them in a separate file, e.g. `macros.tex`, and include them in the main file with `\input{macros}`.
