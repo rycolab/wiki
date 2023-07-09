@@ -15,8 +15,8 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     5.  [Lab Meeting](./onboarding/labmeeting.md)  
         Lab meeting schedule, how to present, etc.
 
-    6.  [ETH Euler Cluster](./onboarding/cluster.md)  
-        How to get an account, how to set up an environment, submit jobs, etc.
+    6.  [Computing](./onboarding/cluster.md)  
+        How to get a cluster account, how to set up an environment, submit jobs, etc.
 
     7.  [Office Access](./onboarding/office.md)  
         Access to the office, keys, etc.
@@ -32,7 +32,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     3. [Making Slides](./research/slides.md)  
         Templates, style guide, etc.
 
-    4. [Attending Conferences](./research/conferences.md)  
+    4. [Attending Conferences](./research/conference.md)  
         Coordination, travel, reinbursement, etc.
 
 3. Being a PhD Student
