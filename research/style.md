@@ -116,6 +116,14 @@ Taken from the CVPR style guide: “Please number all of your sections and displ
 \usepackage[T5,T1]{fontenc}
 ```
 
+### Emoji
+Emojis can be fun to include in papers, for example for author affiliations, however, using them with the standard `pdflatex` compiler is not straightforward, but it is possible.
+TO be able to use them, do the following:
+1. Copy the `emoji.sty` file from [here](https://github.com/henningpohl/latex-emoji/blob/master/emoji.sty.TEMPLATE) into the root of your Overleaf project.
+2. Include the package using `\usepackage{emoji}`.
+3. Create an `emojis` folder in your project and upload the pngs of the emojis you want to use into the folder.
+4. Add an emoji in the file `example.png` to text using `\emoji[emojis]{example}`.
+
 ##  How to format your bibliography
 Please copy all citations from the [ACL Anthology](https://aclanthology.org/)
 * Make sure all middle initials have periods.
