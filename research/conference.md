@@ -50,4 +50,4 @@ Make sure to pre-inform Patrizia about these expenses.
 16. You will then see a list of different items. You should check if all of them are marked green and if so, click on *Set up request*. 
 17. You should see a drop-down menu for approvers and, whenever possible, choose Patrizia Napoli and click *Send*.
 
-You can also refer to [this document](./Travel_Reimbursements_RC.pdf) for a demo.
+You can also refer to [this document](../files/Travel_Reimbursements_RC.pdf) for a demo.
