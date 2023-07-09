@@ -2,7 +2,7 @@
 Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
 
 1. Onboarding
-    1.  [Zulip Chat](./onboarding/zulip.md)
+    1.  [Zulip Chat](./onboarding/zulip.md)  
         Our main communication channel. How to join, how to use it, etc.
 
     3.  [Website](./onboarding/website.md)  
@@ -41,7 +41,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     2. 
 
 5. Miscellaneous
-    1. [Booking a meeting room at OAT]()
+    1. [Booking a meeting room at OAT office]()
     1. [Hosting Visitors]()
 
 6. Lab Chores and Voluntary Tasks
@@ -55,6 +55,6 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     8. Wiki Maintenance
 
 7. Useful Links
-    1. [Printing at OAT](https://piaweb01.ethz.ch/)
+    1. [Printing at OAT office](https://piaweb01.ethz.ch/)
     2. [VPN](https://www.isg.inf.ethz.ch/Main/ServicesNetworkVPN)
     3. [Polybox](https://polyboxdoc.ethz.ch/)
