@@ -14,7 +14,7 @@ Applicants to the fellowship are required to hold, or to be about to complete a 
 ### [CYD Doctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-phd/)
 
 The Cyber-Defense Campus (CYD) offers a fully funded four-year PhD fellowship. Despite the website being hosted at EPFL, the fellowship is equally applicable to students wishing to study at ETH Zürich. The fellowship provides salary, research, and conference allowances. 
-Applicants must be *already* enrolled in the doctoral program at ETH Zürich to apply.
+Applicants must *already* be enrolled in the doctoral program at ETH Zürich to apply.
 
 ### [ETH AI Center Doctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html)
 
