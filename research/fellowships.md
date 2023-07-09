@@ -29,9 +29,9 @@ Interested applicants can apply to the central application process when they are
 Alternatively, ELLIS fellows may nominate students that are already enrolled in a PhD program and are working with them to become ELLIS PhD students. These students must have already published a first-author paper in one of the leading ML conferences.
 ELLIS provides very little financial support for students so this is not a means for students to fund themselves.
 
-## Postdoctoral Fellowships
+## [Postdoctoral Fellowships](https://ethz.ch/en/research/research-promotion/eth-fellowships.html)
 
-ETH funds 24-month [postdoctoral fellowships](https://ethz.ch/en/research/research-promotion/eth-fellowships.html). Applications are on a bi-annual cycle, with applications due in the fall and the spring. Application success rate is about 25%. Prospective fellows must apply with a fundable two-year research project, and the support of an ETH faculty member. If the application passes the first round of reviews, applicants are invited to a 15 minute interview. Funding covers both fellows' salary, as well as up to 10,000 CHF worth of research costs per year.
+ETH funds 24-month postdoctoral fellowships. Applications are on a bi-annual cycle, with applications due in the fall and the spring. Application success rate is about 25%. Prospective fellows must apply with a fundable two-year research project, and the support of an ETH faculty member. If the application passes the first round of reviews, applicants are invited to a 15 minute interview. Funding covers both fellows' salary, as well as up to 10,000 CHF worth of research costs per year.
 
 The [CYD](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/), the [AI Center](https://ai.ethz.ch/education/phd-and-postdoc-programs/postdoc-fellowships.html), and [ELLIS](https://ellis.eu/phd-postdoc) also offer corresponding fellowships for prospective postdoctoral fellows.
 
