@@ -31,5 +31,5 @@ ELLIS provides very little financial support for students so this is not a means
 
 ## Postdoctoral Fellowships
 
-The [CYD](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/), [AI Center](https://ai.ethz.ch/education/phd-and-postdoc-programs/postdoc-fellowships.html), and [ELLIS](https://ellis.eu/phd-postdoc) also offer equivalent fellowships for prospective post-doctoral students.
+The [CYD](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/), [AI Center](https://ai.ethz.ch/education/phd-and-postdoc-programs/postdoc-fellowships.html), and [ELLIS](https://ellis.eu/phd-postdoc) also offer equivalent fellowships for prospective post doctoral fellows.
 
