@@ -35,7 +35,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     4. [Attending Conferences](./research/conference.md)  
         Coordination, travel, reinbursement, etc.
 
-3. Being a PhD Student
+3. Becoming a PhD Student or Postdoc
     1. [Fellowships](./research/fellowships.md)
     2. 
 
