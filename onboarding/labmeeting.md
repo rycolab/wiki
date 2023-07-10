@@ -1,3 +1,5 @@
+## Overview
+
 Lab meeting occurs weekly, with the exact time determined at the begining of each semester to accommodate as many peoples' schedule as possible.
 Lab meeting is slotted for a 1.5 hours, although presentations need not take up that entire time. 
 If a presentation is expected to take between 60-90 minutes then the presenter should sign up for the entire time.
