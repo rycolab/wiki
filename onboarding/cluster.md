@@ -37,16 +37,16 @@ Consult the [Getting Started with Clusters](https://scicomp.ethz.ch/wiki/Getting
 ### Connecting and running
 To connect, run ```ssh [username]@euler.ethz.ch``` - this will take you to your home drive which has 21.5GB of storage. You can check that you have access to GPUs by running the following command, which opens up an interactive shell with a GPU.
 ```bash
-    srun -n 1 --cpus-per-task=1 --gpus=1 --gres=gpumem:4g --time=1:00:00 --mem-per-cpu=4092 --pty bash -i
+srun -n 1 --cpus-per-task=1 --gpus=1 --gres=gpumem:4g --time=1:00:00 --mem-per-cpu=4092 --pty bash -i
 ```
 
 More often, you will want to run a script (e.g., python, bash) on the cluster. To do this, you will need to submit a job. The following template will submit an example job to the cluster:
 ```bash
-    # activate your virtual environment
-    # cd to the directory where you want to run the job
-    # ...
-    # and then:
-    sbatch job.sh
+# activate your virtual environment
+# cd to the directory where you want to run the job
+# ...
+# and then:
+sbatch job.sh
 ```
 
 All resource requirements are written in `job.sh`, which looks like this:
@@ -112,8 +112,8 @@ Alternatively, consult [this older repo](https://gitlab.ethz.ch/sfux/Jupyter-on-
 ## Using git-lfs
 If you want to use git-lfs, you need to load git-lfs and git along with other modules. Check modules documentation to ensure version compatibility with gcc etc (for python compatibility with gcc check [here](https://scicomp.ethz.ch/wiki/Python_on_Euler)):
 ```bash
-    module load gcc/6.3.0 python_gpu/3.8.5 git/2.31.1 zsh/5.8 git-lfs/2.3.0
-    git-lfs install
+module load gcc/6.3.0 python_gpu/3.8.5 git/2.31.1 zsh/5.8 git-lfs/2.3.0
+git-lfs install
 ```
 <!-- ## Checking which resources are available
 
