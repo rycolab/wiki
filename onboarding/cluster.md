@@ -42,6 +42,12 @@ To connect, run ```ssh [username]@euler.ethz.ch``` - this will take you to your 
 ### Storage space
 To run experiments on large datasets (e.g. multi-lingual, multi-modal) you won’t be able to use the home directory given its strict cap on memory (21.5GB) nor scratch, which is purged regularly. If you would like to be added to the group directory, which should have a good deal more space, contact Clara (note: storage space in the group directory is not guaranteed at the moment).
 
+After you have been added to the group directory, make a directory of your own in ```/cluster/work/cotterell/```. 
+You can check how much space we have left by running ```lquota /cluster/work/cotterell/```.
+
+Note that there is a limit on both the number of files (5000000) and the amount of storage space (20 TB)! Please make sure to clean up after yourself and delete/move any files you no longer need.
+
+
 ### Python environments
 Setting up an environment in Euler can be difficult. Since the use of Conda [is discouraged](https://scicomp.ethz.ch/wiki/Conda#Reasons_to_not_use_conda_on_an_HPC_file_system) by the cluster admins, we recommended that you use virtual environments through [venv](https://docs.python.org/3/library/venv.html). See the [Python virtual environment](https://scicomp.ethz.ch/wiki/Python_virtual_environment) wiki for more details
 
