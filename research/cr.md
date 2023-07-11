@@ -69,12 +69,12 @@ Ideally, a more detailed description of the exact commands needed to reproduce a
 ## Step 10: Submit the Final Version!
 * Upload the final paper to softconf (or the equivalent conference manager)
 * Before submitting to *ACL venues, run the paper through the [formatting checker](https://github.com/acl-org/aclpubcheck). It only takes a minute and catches basic margin/formatting errors that you will otherwise get an angry email about from the pub chairs 😶
-* At this point, if you have already uploaded the paper to arXiv, it should be reuploaded to ensure that it matches the final journal/proceedings version.
+* At this point, if you have already uploaded the paper to arXiv, it should be reuploaded to ensure that it matches the final journal/proceedings version.*
 
 ## Step 11: Prepare the Website Information
 * Make sure the metadata for your paper is updated in the [Rycolab paper Google sheet](https://docs.google.com/spreadsheets/d/1bkwiXM3pRmWsa1NHqcKvJLsQy19HUaMz6LJ-xsjIDGM/edit?usp=sharing).
 * Select a first-page picture that is to be displayed on the website. This picture should be uploaded to https://drive.google.com/drive/folders/111SdX1hoDtEcaR5aMMdbCld_l0SYVwgT?usp=sharing. 
-* Ping the current website publications czar (currently Ran) to update the website so it displays on the “Recent Publication” bit of the website. 
+* Ping the current website publications czar (currently Tianyu) to update the website so it displays on the “Recent Publication” bit of the website. 
 
 ## Step 12: Promote your Paper on Social Media
 * Make sure your paper is uploaded on arXiv. Once your paper is pushed to arXiv, you should share the paper password with _**all**_ your co-authors. This is best achieved by forwarding the email you received from arXiv.
