@@ -49,7 +49,10 @@ More often, you will want to run a script (e.g., python, bash) on the cluster. T
 sbatch job.sh
 ```
 
-All resource requirements are written in `job.sh`, which looks like this:
+All resource requirements can be written in `job.sh`. 
+Add options preceded with "#SBATCH" *before any* executable commands in the script. 
+
+`job.sh` looks like this:
 ```bash
 #!/bin/sh
 
