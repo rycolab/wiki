@@ -40,12 +40,16 @@ To connect, run ```ssh [username]@euler.ethz.ch``` - this will take you to your 
     srun -n 1 --cpus-per-task=1 --gpus=1 --gres=gpumem:4g --time=1:00:00 --mem-per-cpu=4092 --pty bash -i
 
 ### Storage space
-To run experiments on large datasets (e.g. multi-lingual, multi-modal) you won’t be able to use the home directory given its strict cap on memory (21.5GB) nor scratch, which is purged regularly. If you would like to be added to the group directory, which should have a good deal more space, contact Clara (note: storage space in the group directory is not guaranteed at the moment).
+To run experiments on large datasets (e.g. multi-lingual, multi-modal) you won’t be able to use the home directory given its strict cap on memory (21.5 GB). If you would like to be added to the group directory, which should have a good deal more space, contact Clara (note: storage space in the group directory is not guaranteed at the moment).
+
+The scratch space (`/cluster/scratch/$USER`, 2.5 TB) is useful when you need a lot of storage space for a short period of time. It is purged every 15 days, so you should plan accordingly.
 
 After you have been added to the group directory, make a directory of your own in ```/cluster/work/cotterell/```. 
 You can check how much space we have left by running ```lquota /cluster/work/cotterell/```.
 
-Note that there is a limit on both the number of files (5000000) and the amount of storage space (20 TB)! Please make sure to clean up after yourself and delete/move any files you no longer need.
+Note that there is a limit on both the number of files (5000000) and the amount of storage space (20 TB) for the whole Rycolab! Please make sure to *clean up* after yourself and delete/move any files you no longer need.
+
+For some useful tips (e.g., where to put large files, small files), click [here](https://scicomp.ethz.ch/wiki/Storage_systems). 
 
 
 ### Python environments
