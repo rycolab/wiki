@@ -61,7 +61,10 @@ All resource requirements are written in `job.sh`, which looks like this:
 python run.py
 ```
 It will be run on 3 CPUs, for at most 4 hours, with 6000 MB of memory per CPU, and 1 RTX 3090 GPU.
-You can check all the GPU specifiers [here](https://scicomp.ethz.ch/wiki/GPU_job_submission_with_SLURM).
+The output of the job will be written to `slurm-[job_id].out` in the same directory as `job.sh`.
+
+You can check all Euler GPU specifiers [here](https://scicomp.ethz.ch/wiki/GPU_job_submission_with_SLURM).
+More information on the `sbatch` command can be found [here](https://slurm.schedmd.com/sbatch.html).
 
 
 ### Storage space
