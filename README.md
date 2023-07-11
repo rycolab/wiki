@@ -29,7 +29,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
         4. [Camera Ready Guidelines](./research/cr.md)
         5. [Paper Metadata Upkeep](./research/metadata.md)
         6. [Bibtex Etiquette](./research/bibtex.md)
-        7. [Afterwards](./research/afterwards.md)
+
     3. [Making Slides](./research/slides.md)  
         Templates, style guide, etc.
 
