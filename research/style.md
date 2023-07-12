@@ -23,7 +23,7 @@ The results of our method are shown in \cref{table:results}.
 
 ## Use todonotes
 We use the [todonotes](https://ctan.org/pkg/todonotes) package to add comments and notes.
-There are two styles of notes: margin notes and inline notes: margin notes are added to the margin of the page, while inline notes are added in the text. Conventionally, margin notes are defined as macros with lowercase names (e.g. `\ryan`), while inline notes are defined as macros with uppercase names (e.g. `\Ryan`). You can find a [color](#eth-colors) that you like for your todonotes.
+There are two styles of notes: margin notes and inline notes: margin notes are added to the margin of the page, while inline notes are added to the text. Conventionally, margin notes are defined as macros with lowercase names (e.g. `\ryan`), while inline notes are defined as macros with uppercase names (e.g. `\Ryan`). You can find a [color](#eth-colors) that you like for your todonotes.
 ```latex
 \usepackage{todonotes}
 \makeatletter
@@ -106,7 +106,7 @@ http://tug.ctan.org/macros/latex/contrib/booktabs/booktabs.pdf
 
 ## Numbering Equations
 
-Taken from the CVPR style guide: “Please number all of your sections and displayed equations. It is important for readers to be able to refer to any particular equation. Just because you didn’t refer to it in the text doesn’t mean some future reader might not need to refer to it. It is cumbersome to have to use circumlocutions like “the equation second from the top of page 3 column 1”. (Note that the ruler will not be present in the final copy, so is not an alternative to equation numbers). All authors will benefit from reading Mermin’s description of how to write mathematics: http://www.pamitc.org/documents/mermin.pdf.”
+Taken from the CVPR style guide: “Please number all of your sections and displayed equations. It is important for readers to be able to refer to any particular equation. Just because you didn’t refer to it in the text doesn’t mean some future readers might not need to refer to it. It is cumbersome to have to use circumlocutions like “the equation second from the top of page 3 column 1”. (Note that the ruler will not be present in the final copy, so is not an alternative to equation numbers). All authors will benefit from reading Mermin’s description of how to write mathematics: http://www.pamitc.org/documents/mermin.pdf.”
 
 
 ## Special Symbols
@@ -118,17 +118,17 @@ Taken from the CVPR style guide: “Please number all of your sections and displ
 
 ### Emoji
 Emojis can be fun to include in papers, for example for author affiliations, however, using them with the standard `pdflatex` compiler is not straightforward, but it is possible.
-TO be able to use them, do the following:
+To be able to use them, do the following:
 1. Copy the `emoji.sty` file from [here](https://github.com/henningpohl/latex-emoji/blob/master/emoji.sty.TEMPLATE) into the root of your Overleaf project.
 2. Include the package using `\usepackage{emoji}`.
-3. Create an `emojis` folder in your project and upload the pngs of the emojis you want to use into the folder.
+3. Create an `emojis` folder in your project and upload the PNGs of the emojis you want to use into the folder.
 4. Add an emoji in the file `example.png` to text using `\emoji[emojis]{example}`.
 
 ##  How to format your bibliography
 Please copy all citations from the [ACL Anthology](https://aclanthology.org/)
 * Make sure all middle initials have periods.
 * Make sure all things that need to remain capitalized are protected (in {}), e.g. language names or names of people (especially in titles)
-* Make sure the capitalized is correct on all booktitles
+* Make sure the capitalization is correct on all book titles
 
 
 ## Header Example
@@ -174,15 +174,15 @@ Format authorship like this:
 ```
 
 ## Uploading to arXiv
-Comment strip and remove unused files with command line tool arxiv-collector:
+Comment strip and remove unused files with the command line tool arxiv-collector:
 
 ```bash
 arxiv-collector main.tex 
 ```
 
-This creates a zip-file that can be uploaded to arxiv directly and contains all the necessary files without comments and unused files.
+This creates a zip file that can be uploaded to Arxiv directly and contains all the necessary files without comments and unused files.
 
-You can download the tool here https://github.com/djsutherland/arxiv-collector or install it with `pip install arxiv-collector`. One can even add it to overleaf directly according to the docs!
+You can download the tool [here](https://github.com/djsutherland/arxiv-collector) or install it with `pip install arxiv-collector`. According to the docs, one can even add it to Overleaf directly!
 
 Alternative tool: https://github.com/google-research/arxiv-latex-cleaner
 
