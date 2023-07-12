@@ -2,7 +2,7 @@
 
 ## PhD Fellowships
 
-Students who wish to do a PhD at ETH Zürich have many different funding opportunities. This page details fellowships that are awarded ad personam, i.e., they are awarded to the student, rather than the advisor. The most important fellowships are listed below. The application deadline usually opens during late summer or early fall. A short summary is provided under each fellowship, but please visit the individual websites for information specific to each program.
+Students who wish to do a PhD at ETH Zürich have many different funding opportunities. This page details fellowships that are awarded ad personam, i.e., they are awarded to the student, rather than the advisor. The most important fellowships are listed below. The application deadline usually opens during late summer or early fall. A summary is provided under each fellowship, but please visit the individual websites for information specific to each program.
 
 ### [CLS Doctoral Program](https://learning-systems.org/basics)
 
@@ -29,10 +29,32 @@ Interested applicants can apply to the central application process when they are
 Alternatively, ELLIS fellows may nominate students that are already enrolled in a PhD program and are working with them to become ELLIS PhD students. These students must have already published a first-author paper in one of the leading ML conferences.
 ELLIS provides very little financial support for students so this is not a means for students to fund themselves.
 
+### [ETH Zurich Doc. Mobility Fellowships](https://ethz.ch/en/research/research-promotion/eth-doc-mobility.html)
+
+The ETH Zurich Doctoral Mobility Fellowships are designed for doctoral students at ETH Zurich who want to spend a part of their PhD at an external institution. The fellowships have a duration of six months or, alternatively, two 3-month long periods in exceptional cases. Applicants must be enrolled as doctoral students and continue to do so during their stay abroad. Students that are awarded the fellowship will continue to receive a salary from ETH, but will also receive up to 20'000 CHF to cover expenses for living costs. There are two submission deadlines per year at the beginning of each academic semester.
+
+### [SNSF Mobility grants in projects](https://www.snf.ch/en/mKVdFSoD7dwtinOR/funding/supplementary-measures/mobility-grants-in-projects)
+
+[The Swiss National Science Foundation](https://www.snf.ch/en/GrjwOKMdGiigVhgY/page/theSNSF/profile) offers mobility grants of up to 20'000 CHF to doctoral students that are employed in a research project funded by the Foundation. Grantees will remain employed by their home institution during their stay abroad.
+
+
 ## [Postdoctoral Fellowships](https://ethz.ch/en/research/research-promotion/eth-fellowships.html)
 
 ### [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html)
-ETH funds 24-month postdoctoral fellowships. Applications are on a bi-annual cycle, with applications due in the fall and the spring. Application success rate is about 25%. Prospective fellows must apply with a fundable two-year research project, and the support of an ETH faculty member. If the application passes the first round of reviews, applicants are invited to a 15 minute interview. Funding covers both fellows' salary, as well as up to 10,000 CHF worth of research costs per year.
+ETH funds 24-month postdoctoral fellowships. Applications are on a bi-annual cycle, with applications due in the fall and the spring. The application success rate is about 25%. Prospective fellows must apply with a fundable two-year research project and the support of an ETH faculty member. If the application passes the first round of reviews, applicants are invited to a 15-minute interview. Funding covers the fellow's salary, and up to 10,000 CHF worth of research costs per year.
 
-The [CYD](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/), the [AI Center](https://ai.ethz.ch/education/phd-and-postdoc-programs/postdoc-fellowships.html), and [ELLIS](https://ellis.eu/phd-postdoc) also offer corresponding fellowships for prospective postdoctoral fellows.
+### [Branco Weiss Fellowship](https://ethz.ch/en/research/research-promotion/branco-weiss-fellowships.html)
 
+The [Branco Weiss](https://ethz.ch/en/research/research-promotion/branco-weiss-fellowships.html) fellowship is awarded to postdoctoral students for a period of up to five years. Eligible applicants have finished their PhD and do not hold a faculty position such as lecturer or assistant professor, or equivalent. The fellowship is open to researchers with a background in any discipline. The fellowship covers all costs for a research project up to a maximum amount of 500,000 CHF. Applications are due in the winter on an annual cycle. The program aims to award up to ten fellowships per year.
+
+### [CYD Distinguished Postdoctoral Fellowships](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/)
+
+The Cyber-Defense Campus offers postdoctoral fellowships to students that have completed their PhD and are endorsed by a professor employed at a Swiss university. Applicants are required to spend their post-doc at a different institution from the one where they have completed their PhD. The fellowship fully funds the salary of the grantee for a period of two years and also includes extra allowances for research and conference costs.
+
+### [ETH AI Center Postdoctoral Fellowships](https://ai.ethz.ch/education/phd-and-postdoc-programs/postdoc-fellowships.html)
+
+The ETH AI Center offers postdoctoral fellowships for researchers that have recently (not later than 10 months) completed their PhD. Postdoctoral positions are funded for a period of two years with an equivalent salary to other postdoctoral fellows at ETH Zurich.
+
+### [ELLIS Postdoc program](https://ellis.eu/phd-postdoc)
+
+The ELLIS Postdoc program offers postdoctoral students the possibility of spending time in an external European institution. Similarly to the ELLIS PhD program, the program is split into an industry and an academic track depending on the location where the grantee will spend his exchange period. Applicants must already be working as postdoctoral researchers and be nominated to the program by their advisor.

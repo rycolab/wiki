@@ -18,7 +18,7 @@ In order to be reimbursed for accommodation expenses, you need to upload proper 
 
 ## Transportation
 
-For transportation you can either book it yourself and get reimbursed or book it using [AirPlus](https://ethz.ch/staffnet/en/finanzen-und-controlling/reisen/airplus/airplus.html) via ETH.
+For transportation, you can either book it yourself and get reimbursed or book it using [AirPlus](https://ethz.ch/staffnet/en/finanzen-und-controlling/reisen/airplus/airplus.html) via ETH.
 
 For flights, you have to upload both a proper receipt and the boarding pass.
 
@@ -29,7 +29,7 @@ The budget is finite so in order to allow everyone to go, we need to economize.
 
 In specific cases, Ryan might agree to cover the cost of your meals which are *not* provided by the hotel or event organizer. 
 Please be honest here 🙂 
-The allowance for breakfast is 10 CHF, and for main meals 27.50 CHF. 
+The allowance for breakfast is 10 CHF and for main meals 27.50 CHF. 
 Make sure to pre-inform Patrizia about these expenses.
 
 ## How to
@@ -37,12 +37,12 @@ Make sure to pre-inform Patrizia about these expenses.
 1. Log into ETHIS and go to *Finanzen* → *Business Expenses* → *Record and settle receipts*.
 2. Click on *New item*.
 3. In the *Account assignment elem.* field type *29682* and click enter. Ryan's name should pop up.
-4. For *Date of receipt* field, choose the date of the invoice.
-5. For *Business transaction*,choose *Business travel ETH employees*.
+4. For the *Date of receipt* field, choose the date of the invoice.
+5. For *Business transaction*, choose *Business travel ETH employees*.
 6. For *Type of expenditure* choose *Flights for ETH employees* for flights and *Rail journeys, public transport for ETH employees* for train tickets. Note that only halbtax tickets in Switzerland can be reimbursed as we all get halbtax for free. For hotel invoices, choose *Hotel, guest house for ETH employees*, for conference fees choose *Seminar and conference costs for ETH employees*, and for meals choose either *Breakfast allowance* or *Main meal allowance*.
 7. Introduce the amount and currency of your invoice.
 8. For *Posting text* write your name and the name of the event in the format *YourName_Event_FlightTickets*/*YourName_Event_TrainTickets*/*YourName_Event_Breakfasts*/*YourName_Event_MainMeals*.
-9. For meals write how many you want to get reimbursed for, the event name and the dates in the *Remarks* field. You should write for instance *3 breakfasts during (EVENT; DATES).*
+9. For meals write how many you want to get reimbursed for, the event name, and the dates in the *Remarks* field. You should write for instance *3 breakfasts during (EVENT; DATES).*
 10. In the *Purpose of trip* field write the name of the event.
 11. In the *Trip to* field write the city and the country.
 12. In the *Date of trip* and *To* fields write the start and end dates of the event.
