@@ -15,7 +15,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
         Lab meeting schedule, what we do, etc.
 
     6.  [Computing](./onboarding/cluster.md)  
-        How to get a cluster account, how to set up an environment, submit jobs, etc.
+        How to get a cluster account, get internet access, how to set up an environment, submit jobs, etc.
 
     7.  [Office Access](./onboarding/office.md)  
         Access to the office, keys, etc.

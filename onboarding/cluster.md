@@ -9,11 +9,11 @@ Once Clara has confirmed you have been added, [request an HPC account from IT](h
 
 
 ## VPN
-To login to the Euler cluster while you are not on ETHZ campus, you will need to use a VPN. If you have a student account, your login ID will be <nethzid>@student-net.ethz.ch. Everyone else (including PhD students) should login as  <nethzid>@staff-net.ethz.ch. There are multiple options for setting up a VPN:
+To login to the Euler cluster while you are not on ETHZ campus, you will need to use a VPN. If you have a student account, your login ID will be `<nethzid>@student-net.ethz.ch`. Everyone else (including PhD students) should login as `<nethzid>@staff-net.ethz.ch`. There are multiple options for setting up a VPN:
 
 Option 1:
 - Go to https://sslvpn.ethz.ch
-- Login as <nethzid>@staff-net.ethz.ch using your Radius password (this is not your ‘main’ password and is sometimes also referred to as your ‘network’ password)
+- Login as `<nethzid>@staff-net.ethz.ch` using your Radius password (this is not your ‘main’ password and is sometimes also referred to as your ‘network’ password)
 
 Option 2:
 - Download Cisco AnyConnect using [these instructions](https://unlimited.ethz.ch/display/itkb/VPN)
@@ -24,12 +24,12 @@ Add the following to your `~/.ssh/config` file:
 ```
 Host euler.ethz.ch
   HostName euler.ethz.ch
-  User <your_nethzid>
-  ProxyJump <your_nethzid>@jumphost.inf.ethz.ch
+  User <nethzid>
+  ProxyJump <nethzid>@jumphost.inf.ethz.ch
 ```
 
+You can then ssh into the cluster. If you can’t get the VPN running, you may need to update your `Radius` password at https://www.password.ethz.ch (go to Self-service -> Change Password). 
 
-You can then ssh into the cluster. If you can’t get the VPN running, you may need to update your Radius password at https://www.password.ethz.ch (go to Self-service -> Change Password).
 
 ## Getting started
 Consult the [Getting Started with Clusters](https://scicomp.ethz.ch/wiki/Getting_started_with_clusters) wiki page for more information
