@@ -3,6 +3,7 @@
 The most often used typesetting system in Rycolab is LaTeX. Major conferences such as ACL, EMNLP, and NAACL offer their own LaTeX template files, e.g. https://2023.aclweb.org/calls/style_and_formatting/. 
 Cloning the template files from the conference website into [Overleaf](https://www.overleaf.com/) is a good starting point. However, there are some additional things to keep in mind when writing a paper in Rycolab.
 
+For a Rycolab Latex template, see [here](https://www.overleaf.com/1784995822csbgryjkqkhj).
 
 
 ## Use cref

@@ -59,3 +59,4 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     1. [Printing at OAT office](https://piaweb01.ethz.ch/)
     2. [VPN](https://www.isg.inf.ethz.ch/Main/ServicesNetworkVPN)
     3. [Polybox](https://polyboxdoc.ethz.ch/)
+    4. [Rycolab Latex Template](https://www.overleaf.com/1784995822csbgryjkqkhj)
