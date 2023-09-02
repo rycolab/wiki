@@ -42,8 +42,12 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     1. [Fellowships](./research/fellowships.md)
 
 5. Miscellaneous
-    1. [Booking a meeting room at OAT office]()
-    1. [Hosting Visitors]()
+   1. [Printing posters](https://www.print-publish.ethz.ch/)   
+        ETH self-service printing (poster/brochure/thesis...)
+
+   2. [Booking a meeting room at OAT office]()
+   3. [Hosting Visitors]()
+
 
 6. Lab Chores and Voluntary Tasks
     1. Website
@@ -56,7 +60,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     8. Wiki Maintenance
 
 7. Useful Links
-    1. [Printing at OAT office](https://piaweb01.ethz.ch/)
+    1. [Using the printers at OAT office](https://piaweb01.ethz.ch/)
     2. [VPN](https://www.isg.inf.ethz.ch/Main/ServicesNetworkVPN)
     3. [Polybox](https://polyboxdoc.ethz.ch/)
     4. [Rycolab Latex Template](https://www.overleaf.com/1784995822csbgryjkqkhj)
