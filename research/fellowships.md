@@ -58,3 +58,10 @@ The ETH AI Center offers postdoctoral fellowships for researchers that have rece
 ### [ELLIS Postdoc program](https://ellis.eu/phd-postdoc)
 
 The ELLIS Postdoc program offers postdoctoral students the possibility of spending time in an external European institution. Similarly to the ELLIS PhD program, the program is split into an industry and an academic track depending on the location where the grantee will spend his exchange period. Applicants must already be working as postdoctoral researchers and be nominated to the program by their advisor.
+
+### [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships)
+
+In 2023, on behalf of the Swiss Confederation, the SNSF is launching a new call under the transitional measure SNSF Swiss Postdoctoral Fellowships for people of all nationalities who were aiming to apply for a Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA PF). The scheme is open to all research disciplines and topics. This funding scheme will offer applicants with a PhD and no more than eight years of postdoctoral experience a position at a non-commercial research institution in Switzerland for 12-24 months. The grant includes the postdoctoral fellow’s salary with social security contributions, financial contributions to research, and conference costs.
+
+
+
