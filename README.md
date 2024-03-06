@@ -50,7 +50,7 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
 
 
 6. Lab Chores and Voluntary Tasks
-    1. Website
+    1. [Setting up the Website (for a course)] (https://docs.google.com/document/d/1N-Y-j7ZyezTHgwH2-IQJCezZMWQZpoi_niolcwyWSWQ/edit?usp=sharing)
     2. Reading Group
     3. Publication List
     4. Meta-Data Checking
