@@ -37,6 +37,11 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
     4. [Attending Conferences](./research/conference.md)  
         Coordination, travel, reimbursement, etc.
 
+3. Being a Teaching Assistant
+   1. [Setting up the Website (for a course)](https://docs.google.com/document/d/1N-Y-j7ZyezTHgwH2-IQJCezZMWQZpoi_niolcwyWSWQ/edit?usp=sharing)
+   2. Designing Assignments
+      1. [Theoretical Assignments](./TAing/designing_assignments.md)
+      2. Coding Assignments(./TAing/coding_assignments.md)
 
 4. Becoming a PhD Student or Postdoc
     1. [Fellowships](./research/fellowships.md)
@@ -44,13 +49,11 @@ Welcome to the wiki for [Rycolab](https://rycolab.io/) at ETH Zürich.
 5. Miscellaneous
    1. [Printing posters](https://www.print-publish.ethz.ch/)   
         ETH self-service printing (poster/brochure/thesis...)
-
    2. [Booking a meeting room at OAT office]()
    3. [Hosting Visitors]()
 
 
 6. Lab Chores and Voluntary Tasks
-    1. [Setting up the Website (for a course)] (https://docs.google.com/document/d/1N-Y-j7ZyezTHgwH2-IQJCezZMWQZpoi_niolcwyWSWQ/edit?usp=sharing)
     2. Reading Group
     3. Publication List
     4. Meta-Data Checking
