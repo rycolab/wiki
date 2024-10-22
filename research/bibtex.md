@@ -1,5 +1,7 @@
 # Rycolab BibTeX Etiquette
 
+[**Video tutorial**](https://drive.google.com/file/d/1e9z6SSXyps3wsYtQwscicRpSVBsZa1-x/view?usp=sharing) | [Original Google doc](https://docs.google.com/document/d/1k_BuGhPTwcVFLMgh35A11Nbf6pUh8Y83Lm28WBFxWoY/edit?usp=sharing)
+
 ## A few Notes on the Author's list
 
 If the authors are coming from different institutions/departments, these should be listed in a consistent way (e.g., in the order “institute, department, university”).
